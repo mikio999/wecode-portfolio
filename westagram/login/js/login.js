@@ -1,4 +1,4 @@
-// 로그인 js
+// 로그인 javascript
 const inputId = document.querySelector("#user-id");
 const inputPassword = document.querySelector("#user-password");
 const loginBtn = document.querySelector("#login_btn");
